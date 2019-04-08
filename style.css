@@ -4,3 +4,7 @@ img {
     max-height: 100vh;
     height: auto;
 }
+
+p {
+    margin-bottom: 2em;
+}
