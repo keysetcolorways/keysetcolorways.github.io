@@ -5,6 +5,10 @@ img {
     height: auto;
 }
 
+p.extra {
+    margin-bottom: 4em;
+}
+
 p {
     margin-bottom: 2em;
 }
